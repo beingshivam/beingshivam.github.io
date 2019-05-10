@@ -2,28 +2,29 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+### Tableau Dashboards 
+---
+[Marvel Avengers EndGame](https://public.tableau.com/profile/shivamahirao#!/vizhome/Marvel-AvengersEndgame/Dashboard1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Game Of Thrones characters](https://public.tableau.com/profile/shivamahirao#!/vizhome/GOTallcharactersAnalysis/Dashboard3)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Kaggle- Despacito vs Shape of You](https://public.tableau.com/profile/shivamahirao#!/vizhome/DespacitovsShapeofYouwhogotmoreviews/DespacitovsShapeofyou)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Google trends- Game Of Thrones Season 8](https://public.tableau.com/profile/shivamahirao#!/vizhome/GameofthronesSeason8GoogleSearchesjan-april2019/GameofThrones)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Some more Tableau visualizations
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Kaggle- Museum Visitors](https://public.tableau.com/profile/shivamahirao#!/vizhome/Kaggle-MuseumVisitorsDashboard/MusueumDashboard)
+- [Maps and Scatter plots](https://public.tableau.com/profile/shivamahirao#!/vizhome/Dashboard-MapsandScatterplots_15544051999590/Dashboard1)
 
 ---
 
@@ -31,5 +32,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
