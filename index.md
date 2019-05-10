@@ -9,7 +9,7 @@
 
 ---
 [Game Of Thrones characters](https://public.tableau.com/profile/shivamahirao#!/vizhome/GOTallcharactersAnalysis/Dashboard3)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/GOT all characters.jpg?raw=true"/>
 
 ---
 [Kaggle- Despacito vs Shape of You](https://public.tableau.com/profile/shivamahirao#!/vizhome/DespacitovsShapeofYouwhogotmoreviews/DespacitovsShapeofyou)
