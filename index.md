@@ -3,6 +3,7 @@
 ---
 
 ### Tableau Dashboards 
+(click on the title to view in Tableau Public)
 ---
 [Marvel Avengers EndGame](https://public.tableau.com/profile/shivamahirao#!/vizhome/Marvel-AvengersEndgame/Dashboard1)
 <img src="images/Marvels.jpg?raw=true"/>
