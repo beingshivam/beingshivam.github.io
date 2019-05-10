@@ -5,7 +5,7 @@
 ### Tableau Dashboards 
 ---
 [Marvel Avengers EndGame](https://public.tableau.com/profile/shivamahirao#!/vizhome/Marvel-AvengersEndgame/Dashboard1)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Marvel avengers end game.png?raw=true"/>
 
 ---
 [Game Of Thrones characters](https://public.tableau.com/profile/shivamahirao#!/vizhome/GOTallcharactersAnalysis/Dashboard3)
