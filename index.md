@@ -17,7 +17,7 @@
 
 ---
 [Google trends- Game Of Thrones Season 8](https://public.tableau.com/profile/shivamahirao#!/vizhome/GameofthronesSeason8GoogleSearchesjan-april2019/GameofThrones)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/GOT_trends.jpg?raw=true"/>
 
 ---
 
