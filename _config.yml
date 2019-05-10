@@ -1,11 +1,14 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Shivam Ahirao # your name (or website title) here
+logo: "/images/passport_pic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Python | BI | Informatica | Data Visualization | Tableau
   <br><br>
-  Second description 
+   Ever since i was a child I always had a passion of building things,
+   from breaking toy cars and making a windmill out of it In “Science Exhibition” to participating
+   in “Hackathon’s” while pursuing Engineering.
+   I believe in lifelong learning ;)
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/shivam-ahirao-30796810b/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-100565780-1 # your Google Analytics tracking ID here
