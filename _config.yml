@@ -3,8 +3,7 @@ logo: "/images/passport_pic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
    Python |Tableau |Data Visualization |BI| Informatica 
   <br><br>
-  <a href="https://www.linkedin.com/in/shivam-ahirao-30796810b/">View My LinkedIn Profile</a> 
- 
+  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="shivam-ahirao-30796810b"><a class="LI-simple-link" href='https://in.linkedin.com/in/shivam-ahirao-30796810b?trk=profile-badge'>Shivam Ahirao</a></div>
 
 google_analytics: UA-100565780-1 # your Google Analytics tracking ID here
 
