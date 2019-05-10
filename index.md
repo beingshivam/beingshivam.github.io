@@ -13,7 +13,7 @@
 
 ---
 [Kaggle- Despacito vs Shape of You](https://public.tableau.com/profile/shivamahirao#!/vizhome/DespacitovsShapeofYouwhogotmoreviews/DespacitovsShapeofyou)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/kaggle_Despacito.jpg?raw=true"/>
 
 ---
 [Google trends- Game Of Thrones Season 8](https://public.tableau.com/profile/shivamahirao#!/vizhome/GameofthronesSeason8GoogleSearchesjan-april2019/GameofThrones)
