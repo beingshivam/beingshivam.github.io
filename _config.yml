@@ -2,10 +2,7 @@ title: Shivam Ahirao # your name (or website title) here
 logo: "/images/passport_pic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Python |Tableau |Data Visualization |BI| Informatica 
-  <br>
-  Highly analytical and process-oriented data analyst with proficient knowledge of python, tableau, SQL, manipulation and visualization. 
-  Excellent understanding of bussiness operations and analytics for effectic analyses of data.
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/shivam-ahirao-30796810b/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
