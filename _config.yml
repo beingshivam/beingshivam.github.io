@@ -7,3 +7,5 @@ description: > # your text below (remove <br> elements if you don't need line br
  
 
 google_analytics: UA-100565780-1 # your Google Analytics tracking ID here
+
+theme: jekyll-theme-minimal
