@@ -22,10 +22,17 @@
 
 ---
 
+### Data Analysis and Visualization using Python
+- [Data Visualization using python (matplotlib)](https://github.com/beingshivam/Data_Analysis/blob/master/Data_visualization_in_python.ipynb)
+
+- [Exploratory Data Analysis(EDA) of car price](https://github.com/beingshivam/Data_Analysis/blob/master/EDA_car_price.ipynb)
+
+---
 ### Some more Tableau visualizations
 
 - [Kaggle- Museum Visitors](https://public.tableau.com/profile/shivamahirao#!/vizhome/Kaggle-MuseumVisitorsDashboard/MusueumDashboard)
 - [Maps and Scatter plots](https://public.tableau.com/profile/shivamahirao#!/vizhome/Dashboard-MapsandScatterplots_15544051999590/Dashboard1)
+
 
 ---
 
