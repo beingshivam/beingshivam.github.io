@@ -1,5 +1,25 @@
 ## Portfolio
 
+
+
+### Data Analysis using Python
+- [Data Visualization using python (matplotlib)](https://github.com/beingshivam/Data_Analysis/blob/master/Data_visualization_in_python.ipynb) _27 May 2019_
+
+- [Exploratory Data Analysis(EDA) of car price](https://github.com/beingshivam/Data_Analysis/blob/master/EDA_car_price.ipynb) _23 May 2019_
+
+
+- [Simple Decision Tree](https://github.com/beingshivam/Data_Analysis/blob/master/ML_Simple_Decision_Tree_Model.ipynb) _21 June 2019_
+
+---
+
+### Kaggle Kernels
+- [911-calls Data Analysis](https://www.kaggle.com/shivamahirao/911-calls)    _7 July 2019_
+
+- [Simple Linear Regression on Diabetes dataset](https://www.kaggle.com/shivamahirao/diabetes-lr) _27 June 2019_
+
+- [Numpy Basics](https://www.kaggle.com/shivamahirao/numpy-basics) _11 June 2019_
+
+
 ---
 
 ### Tableau Dashboards 
@@ -22,12 +42,6 @@
 
 ---
 
-### Data Analysis and Visualization using Python
-- [Data Visualization using python (matplotlib)](https://github.com/beingshivam/Data_Analysis/blob/master/Data_visualization_in_python.ipynb)
-
-- [Exploratory Data Analysis(EDA) of car price](https://github.com/beingshivam/Data_Analysis/blob/master/EDA_car_price.ipynb)
-
----
 ### Some more Tableau visualizations
 
 - [Kaggle- Museum Visitors](https://public.tableau.com/profile/shivamahirao#!/vizhome/Kaggle-MuseumVisitorsDashboard/MusueumDashboard)
