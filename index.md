@@ -5,6 +5,7 @@
 ## Data Science
 
 
+
 ### Data Analysis using Python
 - [Data Visualization using python (matplotlib)](https://github.com/beingshivam/Data_Analysis/blob/master/Data_visualization_in_python.ipynb) _27 May 2019_
 
@@ -13,7 +14,6 @@
 
 - [Simple Decision Tree](https://github.com/beingshivam/Data_Analysis/blob/master/ML_Simple_Decision_Tree_Model.ipynb) _21 June 2019_
 
----
 
 ### Kaggle Kernels
 - [911-calls Data Analysis](https://www.kaggle.com/shivamahirao/911-calls)    _7 July 2019_
@@ -25,6 +25,8 @@
 
 ---
 ## BI
+
+
 
 ### Tableau Dashboards 
 (click on the title to view in Tableau Public)
@@ -45,6 +47,7 @@
 <img src="images/GOT_trends.jpg?raw=true"/>
 
 ---
+
 
 ### Some more Tableau visualizations
 
