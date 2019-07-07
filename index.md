@@ -1,6 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
+
+## Data Science
 
 
 ### Data Analysis using Python
@@ -22,6 +24,7 @@
 
 
 ---
+## BI
 
 ### Tableau Dashboards 
 (click on the title to view in Tableau Public)
