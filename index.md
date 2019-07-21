@@ -16,6 +16,9 @@
 
 
   ### Kaggle Kernels
+  
+    - [Titanic: Machine Learning from Disaster- Contest Submission](https://www.kaggle.com/shivamahirao/titanic-ml)    _21 July 2019_
+    
     - [911-calls Data Analysis](https://www.kaggle.com/shivamahirao/911-calls)    _7 July 2019_
 
     - [Simple Linear Regression on Diabetes dataset](https://www.kaggle.com/shivamahirao/diabetes-lr) _27 June 2019_
