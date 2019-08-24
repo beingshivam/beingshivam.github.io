@@ -7,6 +7,9 @@
 
 
   ### Data Analysis using Python
+  
+   - [Statistics using python(github)](https://github.com/beingshivam/Data-Analytics-Projects) _24 August 2019_
+  
     - [Data Visualization using python (matplotlib)](https://github.com/beingshivam/Data_Analysis/blob/master/Data_visualization_in_python.ipynb) _27 May 2019_
 
     - [Exploratory Data Analysis(EDA) of car price](https://github.com/beingshivam/Data_Analysis/blob/master/EDA_car_price.ipynb) _23 May 2019_
