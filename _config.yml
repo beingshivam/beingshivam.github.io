@@ -3,7 +3,7 @@ logo: "/images/portfolio.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Python | Data Analytics | Data Visualization | Tableau |BI | Informatica 
   <br><br>
-  <a href="https://www.linkedin.com/in/shivam-ahirao-30796810b/">View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/shivam-ahirao-30796810b/">View My LinkedIn Profile</a><br>
   <a href="http://ledata.blogspot.com/">View My Tech Blog</a> 
 
 google_analytics: UA-100565780-1 # your Google Analytics tracking ID here
