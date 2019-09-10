@@ -25,7 +25,9 @@
     
   ### Data Analysis using IBM Watson Studio
   
+  
     - [Python Notebooks (NYC restaurant dataset/car price/EDA/Decision Tree))](https://github.com/beingshivam/Data_Analysis_watson_studio) _10 June 2019_
+    
     
 ---
 
@@ -38,6 +40,7 @@
     - [Telegram Chatbot using Python](https://github.com/beingshivam/Python-projects/blob/master/bot.py)  _15 August 2017_
     
     - [Tech blog](https://github.com/beingshivam/beingshivam_old.github.io)  _10 May 2017_
+    
 ---
 
  * ## Learnings
