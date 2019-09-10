@@ -22,6 +22,10 @@
     - [Case studies(Education/healthcare/car dataset)](https://github.com/beingshivam/Data-Analytics-using-Excel_case_studies) _10 September 2019_
     
     - [Excel functions for data analytics(average/averageif/count/countif/skew/stdev)](https://github.com/beingshivam/Data-Analytics-using-Excel_case_studies) _10 September 2019_
+    
+  ### Data Analysis using IBM Watson Studio
+  
+    - [Python Notebooks (NYC restaurant dataset/car price/EDA/Decision Tree))](https://github.com/beingshivam/Data_Analysis_watson_studio) _10 June 2019_
 
 
   ### Kaggle Kernels
