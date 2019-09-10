@@ -26,6 +26,7 @@
   ### Data Analysis using IBM Watson Studio
   
     - [Python Notebooks (NYC restaurant dataset/car price/EDA/Decision Tree))](https://github.com/beingshivam/Data_Analysis_watson_studio) _10 June 2019_
+    
 ---
 
  * ## Projects
@@ -38,13 +39,11 @@
     
     - [Tech blog](https://github.com/beingshivam/beingshivam_old.github.io)  _10 May 2017_
 ---
-  ---
 
  * ## Learnings
   
     - [Data Analytics concepts (Sample codes)](https://github.com/beingshivam/Data-Analytics-Learning_practise)  _25 August 2019_
     
----
 ---
 
  * ## Kaggle Kernels
