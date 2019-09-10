@@ -38,7 +38,13 @@
     
     - [Tech blog](https://github.com/beingshivam/beingshivam_old.github.io)  _10 May 2017_
 ---
+  ---
+
+ * ## Learnings
   
+    - [Data Analytics concepts (Sample codes)](https://github.com/beingshivam/Data-Analytics-Learning_practise)  _25 August 2019_
+    
+---
 ---
 
  * ## Kaggle Kernels
