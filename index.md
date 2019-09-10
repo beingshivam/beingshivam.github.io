@@ -16,6 +16,12 @@
 
 
     - [Simple Decision Tree](https://github.com/beingshivam/Data_Analysis/blob/master/ML_Simple_Decision_Tree_Model.ipynb) _21 June 2019_
+    
+  ### Data Analysis using Excel
+  
+    - [Case studies(Education/healthcare/car dataset)](https://github.com/beingshivam/Data-Analytics-using-Excel_case_studies) _10 September 2019_
+    
+    - [Excel functions for data analytics(average/averageif/count/countif/skew/stdev)](https://github.com/beingshivam/Data-Analytics-using-Excel_case_studies) _10 September 2019_
 
 
   ### Kaggle Kernels
