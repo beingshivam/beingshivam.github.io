@@ -28,7 +28,10 @@
     - [Python Notebooks (NYC restaurant dataset/car price/EDA/Decision Tree))](https://github.com/beingshivam/Data_Analysis_watson_studio) _10 June 2019_
 
 
-  ### Kaggle Kernels
+
+---
+
+ * ## Kaggle Kernels
   
     - [Titanic: Machine Learning from Disaster- Contest Submission](https://www.kaggle.com/shivamahirao/titanic-ml)    _21 July 2019_
     
