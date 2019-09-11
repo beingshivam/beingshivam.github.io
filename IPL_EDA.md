@@ -67,6 +67,12 @@ To view the notebook see [GitHub](https://github.com/beingshivam/Python-projects
 
 * Best IPL team:
   <img src="images/Most_successful_ipl_team.png?raw=true"/>
+  
+* City with most number of matches:
+  <img src="images/city_most_matches.png?raw=true"/>
+  
+* Venue with most number of matches:
+  <img src="images/venue_matches.png?raw=true"/>
 
 * All top 10 players:
   <img src="images/Top_player.png?raw=true"/>
@@ -77,6 +83,5 @@ To view the notebook see [GitHub](https://github.com/beingshivam/Python-projects
   
 ### Conclusion
 
-This notebook shows Exploratory Data Analysis of IPL dataset. There is lot more to explore in this dataset as which venue(stadium) had most number of wins, which city has most number of wins etc. I'll be doing more analysis and will upload it on github.
-
+This notebook shows Exploratory Data Analysis of IPL dataset. There is lot more to explore in this dataset when one deep dives as which venue(stadium) had most number of wins, which city has most number of wins etc.
 
