@@ -64,13 +64,13 @@ To view the notebook see [GitHub](https://github.com/beingshivam/Python-projects
 
 * Number of matches played in IPL:
   <img src="images/number_of_matches1.png?raw=true"/>
----
+
 * Best IPL team:
   <img src="images/Most_successful_ipl_team.png?raw=true"/>
----
+
 * All top 10 players:
   <img src="images/Top_player.png?raw=true"/>
----
+
 * Are match Winning and Toss Winning Correlated? 
   <img src="images/match_winning_toss_winning.png?raw=true"/>
   
