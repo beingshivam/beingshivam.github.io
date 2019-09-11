@@ -2,7 +2,7 @@
   
   <img src="images/wp2458583.jpg?raw=true"/>
 
-**Project description:** Data Analytics is all about finding valuable insights that help businesses take right decisions. In this Project, I have done exploratory data analysis using python. The dataset in action is IPL(Indian Premier League) dataset between 2008 and 2016. IPL is world's most famous cricket tournament which is held every month, it is one of the most successful tournament. In this analysis I have tried to explore the data set using different plots.
+**Project description:** Data Analytics is all about finding valuable insights that help businesses take right decisions. In this Project, I have done exploratory data analysis using python. The dataset in action is IPL(Indian Premier League) dataset between 2008 and 2016. IPL is world's most famous cricket tournament which is held every year, it is one of the most successful tournament. In this analysis I have tried to explore the data set using different plots.
 
 ### 1. About Dataset
 
