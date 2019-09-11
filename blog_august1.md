@@ -1,32 +1,82 @@
-## Best Data Analytics tools in market!!!
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## IPL: Exploratory Data Analysis
+  
+  <img src="images/wp2458583.jpg?raw=true"/>
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** Data Analytics is all about finding valuable insights that help businesses take right decisions. In this Project, I have done exploratory data analysis using python. The dataset in action is IPL(Indian Premier League) dataset between 2008 and 2016. IPL is world's most famous cricket tournament which is held every month, it is one of the most successful tournament. In this analysis I have tried to explore the data set using different plots.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. About Dataset
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+The dataset is picked from kaggle. It consist of total 18 columns and 636 rows. The columns are namely:
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+('id', 'season', 'city', 'date', 'team1', 'team2', 'toss_winner','toss_decision', 'result', 'dl_applied', 'winner', 
+'win_by_runs','win_by_wickets', 'player_of_match', 'venue', 'umpire1', 'umpire2','umpire3')
 
-### 2. Assess assumptions on which statistical inference will be based
+Just to get a rough idea about the dataset below is the variable(cloumn) details:
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+* Data columns (total 18 columns):
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Variables         | Description
+------------------|--------------------
+id                | 636 non-null int64
+season            | 636 non-null int64
+city              | 629 non-null object
+date              | 636 non-null object
+team1             | 636 non-null object
+team2             | 636 non-null object
+toss_winner       | 636 non-null object
+toss_decision     | 636 non-null object
+result            | 636 non-null object
+dl_applied        | 636 non-null int64
+winner            | 633 non-null object
+win_by_runs       | 636 non-null int64
+win_by_wickets    | 636 non-null int64
+player_of_match   | 633 non-null object
+venue             | 636 non-null object
+umpire1           | 635 non-null object
+umpire2           | 635 non-null object
+umpire3           | 0 non-null float64
 
-### 4. Provide a basis for further data collection through surveys or experiments
+* Data types
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+datatype| total
+--------|------
+float64 |  1 
+int64   |  5 
+object  |  12
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
+
+### 2. Requirements
+
+*  The jupyter notebook environment that I have used is [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#).
+*  The dataset can be downloaded from [Kaggle](https://www.kaggle.com/manasgarg/ipl/data).
+*  The Python packages that I have used are :numpy, pandas, matplotlib, and seaborn.
+
+
+### 3. Complete code (notebook)
+
+To view the notebook see [GitHub](https://github.com/beingshivam/Python-projects/blob/master/IPL_EDA.ipynb).
+
+
+### 4. Results
+
+* Number of matches played in IPL:
+  <img src="images/number_of_matches1.png?raw=true"/>
+---
+* Best IPL team:
+  <img src="images/Most_successful_ipl_team.png?raw=true"/>
+---
+* All top 10 players:
+  <img src="images/Top_player.png?raw=true"/>
+---
+* Are match Winning and Toss Winning Correlated? 
+  <img src="images/match_winning_toss_winning.png?raw=true"/>
+  
+  
+### Conclusion
+
+This notebook shows Exploratory Data Analysis of IPL dataset. There is lot more to explore in this dataset as which venue(stadium) had most number of wins, which city has most number of wins etc. I'll be doing more analysis and will upload it on github.
+
+
