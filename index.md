@@ -32,7 +32,9 @@
 ---
 
  * ## Projects
-  
+ 
+    - [IPL Exploratory Data Analysis](http://shivamahirao.in/IPL_EDA)  _11 September 2019_
+ 
     - [Ledata: Data Analytics blog (Active)](http://ledata.blogspot.com/)  _10 March 2018_
     
     - [Portfolio site (hosted on github)](https://github.com/beingshivam/beingshivam.github.io)  _15 July 2018_
