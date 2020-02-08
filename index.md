@@ -5,7 +5,8 @@
 * ## Data Science
 
 
-
+  - [R Basics](https://github.com/beingshivam/R-Programming) _09 February 2020_
+ 
   ### Data Analysis using Python
   
    - [Statistics using python(github)](https://github.com/beingshivam/Data-Analytics-Projects) _24 August 2019_
