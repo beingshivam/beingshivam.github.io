@@ -1,11 +1,11 @@
 title:  Shivam Ahirao # your name (or website title) here
 logo: "/images/portfolio.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Python | Data Analytics | Data Visualization | Tableau |BI | Informatica 
+  Big Data | Python | Data Analytics | Data Visualization | Tableau | BI 
   <br><br>
   <a href="https://www.linkedin.com/in/shivam-ahirao-30796810b/">View My LinkedIn Profile</a><br>
-  <a href="http://ledata.blogspot.com/">View My Tech Blog</a><br>
-  <a href="https://github.com/beingshivam/beingshivam.github.io/blob/master/pdf/Shivam_Ahirao_resume.pdf">Download my CV</a>
+  <a href="http://shivamahirao.blogspot.com/" class="fa fa-linkedin">View My Blog</a><br>
+  <a href="https://github.com/beingshivam/beingshivam.github.io/blob/master/pdf/Shivam_Ahirao_resume.pdf">Download my Resume</a>
   
 
 google_analytics: UA-100565780-1 # your Google Analytics tracking ID here
