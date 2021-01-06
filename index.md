@@ -3,11 +3,11 @@
 
  * ## Projects
  
-    - [Audio book Reciter: Alexa!!]() _20 December 2020
+    - [Audio book Reciter: Alexa!!]() _20 December 2020_
     
-    - [Covid-19 Coronavirus Dashboard](https://public.tableau.com/profile/shivamahirao#!/vizhome/CoronaVirusConfirmedDeaths/ConfirmedDeaths) _15 October 2020
+    - [Covid-19 Coronavirus Dashboard](https://public.tableau.com/profile/shivamahirao#!/vizhome/CoronaVirusConfirmedDeaths/ConfirmedDeaths) _15 October 2020_
     
-    - [Coronavirus Country wise Deaths/Recoveries Dashboard]() _10 October 2020
+    - [Coronavirus Country wise Deaths/Recoveries Dashboard](https://www.linkedin.com/posts/shivamahirao_upskilling-visualization-dashboard-activity-6715936863774945280-rpza) _10 October 2020_
      
     - [IPL Exploratory Data Analysis](http://shivamahirao.in/IPL_EDA)  _11 September 2019_
     
@@ -16,7 +16,6 @@
     - [Telegram Chatbot using Python](https://github.com/beingshivam/Python-projects/blob/master/bot.py)  _15 August 2017_
     
     
----
 ---
 
 * ## Data Science
