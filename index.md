@@ -3,7 +3,7 @@
 
  * ## Projects 
     
-    _(Click on the title to view the project)_
+    _(Click on the title to view the project.)_
  
     - [Audio book Reciter: Alexa!!]() 
     
@@ -20,7 +20,7 @@
     ---
 * ### Tableau Dashboards (Data Visualization)
 
-   _Click on the title to view in Tableau Public_
+   _Click on the title to view in Tableau Public._
        
 [Marvel Avengers EndGame](https://public.tableau.com/profile/shivamahirao#!/vizhome/Marvel-AvengersEndgame/Dashboard1)
 <img src="images/Marvels.jpg?raw=true"/>
