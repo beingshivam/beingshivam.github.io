@@ -3,18 +3,50 @@
 
  * ## Projects
  
-    - [Audio book Reciter: Alexa!!]() _20 December 2020_
+    - [Audio book Reciter: Alexa!!]() 
     
-    - [Covid-19 Coronavirus Dashboard](https://public.tableau.com/profile/shivamahirao#!/vizhome/CoronaVirusConfirmedDeaths/ConfirmedDeaths) _15 October 2020_
+    - [Covid-19 Coronavirus Dashboard](https://public.tableau.com/profile/shivamahirao#!/vizhome/CoronaVirusConfirmedDeaths/ConfirmedDeaths) 
     
-    - [Coronavirus Country wise Deaths/Recoveries Dashboard](https://www.linkedin.com/posts/shivamahirao_upskilling-visualization-dashboard-activity-6715936863774945280-rpza) _10 October 2020_
+    - [Coronavirus Country wise Deaths/Recoveries Dashboard](https://www.linkedin.com/posts/shivamahirao_upskilling-visualization-dashboard-activity-6715936863774945280-rpza) 
      
-    - [IPL Exploratory Data Analysis](http://shivamahirao.in/IPL_EDA)  _11 September 2019_
+    - [IPL Exploratory Data Analysis](http://shivamahirao.in/IPL_EDA) 
     
-    - [Portfolio site (hosted on github)](https://github.com/beingshivam/beingshivam.github.io)  _15 July 2018_
+    - [Portfolio site (hosted on github)](https://github.com/beingshivam/beingshivam.github.io) 
     
-    - [Telegram Chatbot using Python](https://github.com/beingshivam/Python-projects/blob/master/bot.py)  _15 August 2017_
+    - [Telegram Chatbot using Python](https://github.com/beingshivam/Python-projects/blob/master/bot.py)  
     
+    ---
+* ## Data Visualization
+
+
+  ### Tableau Dashboards 
+   (click on the title to view in Tableau Public)
+   
+  
+---
+[Marvel Avengers EndGame](https://public.tableau.com/profile/shivamahirao#!/vizhome/Marvel-AvengersEndgame/Dashboard1)
+<img src="images/Marvels.jpg?raw=true"/>
+
+---
+[Game Of Thrones characters](https://public.tableau.com/profile/shivamahirao#!/vizhome/GOTallcharactersAnalysis/Dashboard3)
+<img src="images/GOT all characters.jpg?raw=true"/>
+
+---
+[Kaggle- Despacito vs Shape of You](https://public.tableau.com/profile/shivamahirao#!/vizhome/DespacitovsShapeofYouwhogotmoreviews/DespacitovsShapeofyou)
+<img src="images/kaggle_Despacito.jpg?raw=true"/>
+
+---
+[Google trends- Game Of Thrones Season 8](https://public.tableau.com/profile/shivamahirao#!/vizhome/GameofthronesSeason8GoogleSearchesjan-april2019/GameofThrones)
+<img src="images/GOT_trends.jpg?raw=true"/>
+
+---
+
+
+### Some more Tableau visualizations
+
+- [Kaggle- Museum Visitors](https://public.tableau.com/profile/shivamahirao#!/vizhome/Kaggle-MuseumVisitorsDashboard/MusueumDashboard)
+- [Maps and Scatter plots](https://public.tableau.com/profile/shivamahirao#!/vizhome/Dashboard-MapsandScatterplots_15544051999590/Dashboard1)
+
     
 ---
 
