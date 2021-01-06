@@ -1,5 +1,22 @@
 # Portfolio
+---
 
+ * ## Projects
+ 
+    - [Audio book Reciter: Alexa!!]() _20 December 2020
+    
+    - [Covid-19 Coronavirus Dashboard](https://public.tableau.com/profile/shivamahirao#!/vizhome/CoronaVirusConfirmedDeaths/ConfirmedDeaths) _15 October 2020
+    
+    - [Coronavirus Country wise Deaths/Recoveries Dashboard]() _10 October 2020
+     
+    - [IPL Exploratory Data Analysis](http://shivamahirao.in/IPL_EDA)  _11 September 2019_
+    
+    - [Portfolio site (hosted on github)](https://github.com/beingshivam/beingshivam.github.io)  _15 July 2018_
+    
+    - [Telegram Chatbot using Python](https://github.com/beingshivam/Python-projects/blob/master/bot.py)  _15 August 2017_
+    
+    
+---
 ---
 
 * ## Data Science
@@ -30,21 +47,7 @@
     - [Python Notebooks (NYC restaurant dataset/car price/EDA/Decision Tree))](https://github.com/beingshivam/Data_Analysis_watson_studio) _10 June 2019_
     
     
----
 
- * ## Projects
- 
-    - [IPL Exploratory Data Analysis](http://shivamahirao.in/IPL_EDA)  _11 September 2019_
- 
-    - [Ledata: Data Analytics blog (Active)](http://ledata.blogspot.com/)  _10 March 2018_
-    
-    - [Portfolio site (hosted on github)](https://github.com/beingshivam/beingshivam.github.io)  _15 July 2018_
-    
-    - [Telegram Chatbot using Python](https://github.com/beingshivam/Python-projects/blob/master/bot.py)  _15 August 2017_
-    
-    - [Tech blog](https://github.com/beingshivam/beingshivam_old.github.io)  _10 May 2017_
-    
----
 
  * ## Learnings
   
