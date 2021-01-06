@@ -16,10 +16,8 @@
     - [Telegram Chatbot using Python](https://github.com/beingshivam/Python-projects/blob/master/bot.py)  
     
     ---
-* ## Data Visualization
+* ### Tableau Dashboards (Data Visualization)
 
-
-  ### Tableau Dashboards 
    _Click on the title to view in Tableau Public_
      
 ---
