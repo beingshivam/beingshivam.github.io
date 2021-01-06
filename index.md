@@ -1,13 +1,13 @@
 # Portfolio
 ---
 
- * ## Projects
+ * ## Projects _(Click on the title to view the project)_
  
     - [Audio book Reciter: Alexa!!]() 
     
-    - [Covid-19 Coronavirus Dashboard](https://public.tableau.com/profile/shivamahirao#!/vizhome/CoronaVirusConfirmedDeaths/ConfirmedDeaths) 
+    - [Covid-19 Coronavirus Dashboard : Part 2](https://public.tableau.com/profile/shivamahirao#!/vizhome/CoronaVirusConfirmedDeaths/ConfirmedDeaths) 
     
-    - [Coronavirus Country wise Deaths/Recoveries Dashboard](https://www.linkedin.com/posts/shivamahirao_upskilling-visualization-dashboard-activity-6715936863774945280-rpza) 
+    - [Covid-19 Coronavirus Country-wise Deaths/Recoveries Dashboard : Part 1](https://www.linkedin.com/posts/shivamahirao_upskilling-visualization-dashboard-activity-6715936863774945280-rpza) 
      
     - [IPL Exploratory Data Analysis](http://shivamahirao.in/IPL_EDA) 
     
