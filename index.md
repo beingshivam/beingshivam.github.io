@@ -20,7 +20,6 @@
 
    _Click on the title to view in Tableau Public_
      
----
 [Marvel Avengers EndGame](https://public.tableau.com/profile/shivamahirao#!/vizhome/Marvel-AvengersEndgame/Dashboard1)
 <img src="images/Marvels.jpg?raw=true"/>
 
